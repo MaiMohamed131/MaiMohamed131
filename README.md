@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mai Mohamed</h1>
-<h3 align="center">Computer Science Student | Embedded Systems Engineer | Full Stack Developer</h3>
+<h3 align="center"> Software Developer | Embedded Systems Engineer | Full Stack Developer</h3>
 
 <p align="center">
 Passionate about building scalable software, secure embedded systems, and modern web applications.
@@ -9,9 +9,9 @@ Passionate about building scalable software, secure embedded systems, and modern
 
 ## 🚀 About Me
 
-- 🎓 Computer Science Student  
+- 🎓 Computer Engineer
+-  💻 Full Stack Developer (MERN / Node.js / React)  
 - 🔐 Interested in Secure Boot, HSM, AUTOSAR & Embedded Security  
-- 💻 Full Stack Developer (MERN / Node.js / React)  
 - 🤖 Interested in AI & Machine Learning  
 - 📚 Always learning new technologies  
 - 🌍 Based in Egypt  
@@ -49,19 +49,18 @@ Passionate about building scalable software, secure embedded systems, and modern
 
 ---
 
-## 📌 Featured Projects
-
-### 🔐 Secure Bootloader for STM32 / TC39x
-- AES-128 Encryption  
-- CMAC Integrity Verification  
-- Rollback Prevention  
-- HSM Integration  
+## 📌 Featured Projects 
 
 ### 🌐 Social Media Platform
 - MERN Stack  
 - Real-time Messaging  
 - Authentication  
-- Notifications  
+- Notifications
+### 🔐 Secure Bootloader for STM32 / TC39x
+- AES-128 Encryption  
+- CMAC Integrity Verification  
+- Rollback Prevention  
+- HSM Integration 
 
 ### 📞 Call Campaign Simulator
 - TypeScript  
