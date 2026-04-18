@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mai Mohamed</h1>
-<h3 align="center"> Software Developer | Embedded Systems Engineer | Full Stack Developer</h3>
+<h3 align="center"> Software Developer | Full Stack Developer | Embedded Systems Engineer</h3>
 
 <p align="center">
 Passionate about building scalable software, secure embedded systems, and modern web applications.
@@ -50,6 +50,15 @@ Passionate about building scalable software, secure embedded systems, and modern
 ---
 
 ## 📌 Featured Projects 
+
+### 🏠 Estate Hub – Real Estate Platform  
+- Role-based system for Buyers, Sellers & Admins  
+- Advanced property search with filters & OpenLayers maps  
+- Seller dashboard with analytics & engagement tracking  
+- Admin panel with full CRUD operations & statistics  
+- OTP authentication, password recovery & authorization  
+- Favorites, mortgage calculator, visit scheduling & payments  
+- Responsive UI with dark/light mode & animations 
 
 ### 🌐 Social Media Platform
 - MERN Stack  
