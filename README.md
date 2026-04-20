@@ -80,9 +80,9 @@ Passionate about building scalable software, secure embedded systems, and modern
 
 ## 📊 GitHub Stats
 
-![Mai's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Mai's GitHub stats](https://github-readme-stats.vercel.app/api?username=maimohamed131&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maimohamed131&layout=compact&theme=tokyonight)
 
 ---
 
