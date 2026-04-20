@@ -82,6 +82,8 @@ Passionate about building scalable software, secure embedded systems, and modern
 
 ![Mai's GitHub stats](https://github-readme-stats.vercel.app/api?username=maimohamed131&show_icons=true&theme=tokyonight)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=maimohamed131&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maimohamed131&layout=compact&theme=tokyonight)
 
 ---
