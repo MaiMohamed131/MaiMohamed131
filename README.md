@@ -1,102 +1,97 @@
-<h1 align="center">Hi 👋, I'm Mai Mohamed</h1>
-<h3 align="center"> Software Developer | Full Stack Developer | Embedded Systems Engineer</h3>
+<h1 align="center">Mai Mohamed Kamel</h1>
+<p align="center"><strong>Full Stack Developer · Computer Engineer</strong></p>
+<p align="center">Building thoughtful web interfaces, reliable APIs, and practical software.</p>
 
 <p align="center">
-Passionate about building scalable software, secure embedded systems, and modern web applications.
+  <a href="https://maikamel-portfolio.vercel.app/">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/mai-mohamed-kamel-1b0354296">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:maikamel131@gmail.com">Email</a>
 </p>
 
----
+## About me
 
-## 🚀 About Me
+I'm a full stack developer based in Cairo, Egypt, with a background in Communication and Information Engineering from Helwan University. I build responsive web applications with React and TypeScript, supported by Node.js APIs and database-driven services.
 
-- 🎓 Computer Engineer
--  💻 Full Stack Developer (MERN / Node.js / React)  
-- 🔐 Interested in Secure Boot, HSM, AUTOSAR & Embedded Security  
-- 🤖 Interested in AI & Machine Learning  
-- 📚 Always learning new technologies  
-- 🌍 Based in Egypt  
+My work spans marketplaces, business dashboards, real estate platforms, and real-time applications. I enjoy connecting the interface, application logic, and data layer to turn complex requirements into useful products.
 
----
+- **Focus:** full stack applications, REST APIs, authentication, and role-based workflows.
+- **Training:** NTI Hire Ready Open-Source Web Development Program and software engineering training at Areeb Technology.
+- **Engineering interests:** embedded systems, secure boot, HSM, AUTOSAR, and applied machine learning.
 
-## 🛠️ Tech Stack
+## Featured projects
 
-### 💻 Programming Languages
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
+### MarketHub — Multi-vendor marketplace
 
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+A full stack marketplace connecting customers, sellers, and platform administrators.
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
+- Product search and filtering, carts, wishlists, customer reviews, and cash-on-delivery checkout.
+- Seller onboarding, inventory management, and separate fulfillment workflows for each seller.
+- Role-based access, rotating refresh sessions, and transaction-based stock updates.
+- API documentation with OpenAPI and Swagger, plus Jest and Supertest coverage.
 
-### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+**Stack:** React · TypeScript · Node.js · Express · MongoDB · Redux Toolkit · TanStack Query
 
-### 🔧 Tools
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
-![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
+[Source code](https://github.com/MaiMohamed131/MarketHub) · [Live demo](https://market-hub-maioia1.vercel.app/)
 
----
+### StorePilot — Retail management dashboard
 
-## 📌 Featured Projects 
+A retail operations application for managing products, orders, sales insights, and staff access.
 
-### 🏠 Estate Hub – Real Estate Platform  
-- Role-based system for Buyers, Sellers & Admins  
-- Advanced property search with filters & OpenLayers maps  
-- Seller dashboard with analytics & engagement tracking  
-- Admin panel with full CRUD operations & statistics  
-- OTP authentication, password recovery & authorization  
-- Favorites, mortgage calculator, visit scheduling & payments  
-- Responsive UI with dark/light mode & animations 
+- Sales analytics, order trends, category performance, and low-stock alerts.
+- Product management, order fulfillment, status history, and admin/staff permissions.
+- A full stack application with an Express API and MongoDB, plus a browser-only portfolio demo.
+- Automated checks using Vitest, Testing Library, and Supertest.
 
-### 🌐 Social Media Platform
-- MERN Stack  
-- Real-time Messaging  
-- Authentication  
-- Notifications
-### 🔐 Secure Bootloader for STM32 / TC39x
-- AES-128 Encryption  
-- CMAC Integrity Verification  
-- Rollback Prevention  
-- HSM Integration 
+**Stack:** React · TypeScript · Tailwind CSS · Node.js · Express · MongoDB · Recharts
 
-### 📞 Call Campaign Simulator
-- TypeScript  
-- Backend Logic  
-- Scheduling System  
+[Source code](https://github.com/MaiMohamed131/store-pilot) · [Interactive browser demo](https://storepilot-brown.vercel.app/)
 
----
+### Estate Hub — Real estate platform
 
-## 📊 GitHub Stats
+A real estate application with dedicated experiences for buyers, sellers, and administrators.
 
-![Mai's GitHub stats](https://github-readme-stats.vercel.app/api?username=maimohamed131&show_icons=true&theme=tokyonight)
+- Property discovery with search filters, OpenLayers maps, favorites, and visit scheduling.
+- Seller tools for managing listings, reviewing analytics, and handling buyer inquiries.
+- Administrative tools for user and property management, with responsive layouts and light/dark themes.
 
-![GitHub Streak](https://streak-stats.demolab.com?user=maimohamed131&theme=tokyonight)
+**Stack:** React · TypeScript · Tailwind CSS · Redux Toolkit · OpenLayers · Node.js
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maimohamed131&layout=compact&theme=tokyonight)
+[Frontend](https://github.com/MaiMohamed131/Estate_hub) · [Backend](https://github.com/MaiMohamed131/Backend-Estatehub)
 
----
+## More engineering work
 
-## 🌐 Connect With Me
+### Social Media Platform
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mai-mohamed-kamel-1b0354296)
+A MERN project with authentication, real-time messaging, and notifications. The backend includes versioned REST endpoints, Socket.IO chat, email notifications, and password recovery.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox)](https://maimohamed131.github.io/portfolio-main/)
+**Stack:** React · Node.js · Express · MongoDB · Socket.IO
 
----
+[Application](https://github.com/MaiMohamed131/socialMedia) · [Backend API](https://github.com/MaiMohamed131/social-media-app-backend)
 
-## ✨ Quote
+### Call Campaign Simulator
 
-> "Keep building. Keep learning. Keep growing."
+A TypeScript campaign engine that simulates call scheduling with concurrency limits, retries, working hours, time zones, daily usage caps, and pause/resume controls. Injected clocks and call handlers support deterministic testing without real calls or time delays.
 
+**Stack:** TypeScript · Node.js · Jest
+
+[Source code](https://github.com/MaiMohamed131/call-campaign-simulator)
+
+### Secure Bootloader — STM32 / TC39x
+
+Embedded security work covering AES-128 encryption, CMAC integrity verification, rollback prevention, and HSM integration.
+
+**Focus:** embedded systems · secure boot · firmware integrity
+
+## Technical skills
+
+| Area | Technologies |
+| --- | --- |
+| Frontend | React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS |
+| Backend | Node.js, Express, REST APIs, JWT authentication, Socket.IO |
+| Databases | MongoDB, Mongoose, MySQL, SQL |
+| Testing & delivery | Jest, Vitest, Supertest, Testing Library, Git, GitHub Actions, Docker, Vercel, Postman |
+| Engineering | C, C++, Python, embedded systems |
+
+## Let's connect
+
+Explore my [portfolio](https://maikamel-portfolio.vercel.app/) for project previews and more about my work. For project enquiries or opportunities, reach me on [LinkedIn](https://www.linkedin.com/in/mai-mohamed-kamel-1b0354296) or at [maikamel131@gmail.com](mailto:maikamel131@gmail.com).
